@@ -1,0 +1,177 @@
+
+#################################################################################
+################################ XIAOMI APPS ####################################
+#################################################################################
+
+# Wallpapers MIUI
+com.miui.android.fashiongallery
+
+# MIUI app installer
+com.miui.global.packageinstaller
+
+# Mi Community
+com.mi.global.bbs
+
+# Mi store
+com.mi.global.shop
+
+# MiDrop
+com.xiaomi.midrop
+
+# Browser  MIUI
+com.mi.globalbrowser
+
+# Other apps MIUI
+com.xiaomi.mipicks
+com.xiaomi.glgm
+com.xiaomi.payment
+com.mi.health
+
+#################################################################################
+################################ OTHER APPPS ####################################
+#################################################################################
+
+# Opera browser
+com.opera.preinstall
+com.opera.browser
+
+# Facebook
+com.facebook.services
+com.facebook.system
+com.facebook.katana
+
+# TikTok
+com.zhiliaoapp.musically
+
+# WPS Office
+cn.wps.moffice_eng
+cn.wps.xiaomi.abroad.lite
+
+# Ebay
+com.ebay.carrier
+com.ebay.mobile
+
+# Likee
+video.like
+
+# Booking
+com.booking
+
+# Yandex
+ru.yandex.searchplugin
+com.yandex.zen
+com.yandex.zenkitpartnerconfig
+
+# Ozon
+ru.ozon.app.android
+
+# Auto.ru
+ru.auto.ara
+
+# Netflix
+com.netflix.mediaclient
+
+# Browser
+com.android.browser
+
+# Preinstalled GAMES
+com.block.puzzle.game.hippo.mi
+com.crazy.juicer.xm
+com.mintgames.triplecrush.tile.fun
+com.sukhavati.gotoplaying.bubble.BubbleShooter.mint
+com.logame.eliminateintruder3d
+com.bubble.free.bubblestory
+com.igg.android.lordsmobile
+com.kingsgroup.sos
+com.tencent.igxiaomi
+com.jewelsblast.ivygames.Adventure.free
+
+# App Vault
+com.mi.android.globalminusscreen
+
+# Mi rouming
+com.miui.virtualsim
+
+# Mi Browser
+com.mi.globalbrowser
+
+# Mi Wallet (India)
+com.mipay.wallet.in
+
+# MIUI Analytics (spyware)
+com.miui.analytics
+
+## Cloud Backup service
+# com.miui.cloudbackup
+
+## Cloud service
+# com.miui.cloudservice
+
+## Cloud Sync
+# com.miui.micloudsync
+
+# Cloud service
+com.miui.cloudservice.sysbase
+
+## MIUI Picture in Picture service
+# com.miui.freeform
+
+# Quick Apps (data mining app)
+com.miui.hybrid
+
+# Quick Apps (data mining app)
+com.miui.hybrid.accessory
+
+# Services & feedback
+com.miui.miservice
+
+# Mi Share
+com.miui.mishare.connectivity
+
+# MSA or MIUI Ad Services
+com.miui.msa.global
+
+# Frequent phrases
+com.miui.phrase
+
+# Quick Ball feature
+com.miui.touchassistant
+
+# Weather app
+com.miui.weather2
+
+# Yellow Page app
+com.miui.yellowpage
+
+## Games
+# com.xiaomi.glgm
+
+# Junk and safe to remove
+com.xiaomi.joyose
+
+# Mi Drop
+com.xiaomi.midrop
+
+## Miui Daemon
+# com.miui.daemon
+
+# GetApps(Xiaomi app store)
+com.xiaomi.mipicks
+
+com.xiaomi.miplay_client
+
+# Mi Pay
+com.xiaomi.payment
+
+# Netflix
+com.netflix.partner.activation
+com.netflix.mediaclient
+
+# Chinese Payment service
+com.tencent.soter.soterserver
+
+# Facebook
+com.facebook.appmanager
+com.facebook.services
+com.facebook.system
+com.facebook.katana
